@@ -10,7 +10,7 @@ This is a logic-based command-line game developed as part of my Certificate III 
 * **Python:** Written in pure Python 3.x with no external dependencies.
 
 ## How to Run
-1.  Ensure you have all of the files are installed in the same folder.
+1.  Ensure you have all of the files installed in the same folder.
 2.  Ensure you have Python (VSCode/IDLE) installed.
 3.  Run the script:
     ```bash

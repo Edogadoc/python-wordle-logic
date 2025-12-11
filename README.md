@@ -10,8 +10,9 @@ This is a logic-based command-line game developed as part of my Certificate III 
 * **Python:** Written in pure Python 3.x with no external dependencies.
 
 ## How to Run
-1.  Ensure you have Python installed.
-2.  Run the script:
+1.  Ensure you have all of the files are installed in the same folder.
+2.  Ensure you have Python (VSCode/IDLE) installed.
+3.  Run the script:
     ```bash
     python wordle.py
     ```
